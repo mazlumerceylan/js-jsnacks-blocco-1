@@ -7,4 +7,4 @@ JSnack5
 JSnack5
 !- Crea variabile "n" con il prompt 
 2-Crea il ciclo for con i vari calcoli
-3-riproduci a schermo per verificare la validitá
+3-riproduci a schermo per verificare la validitá.
