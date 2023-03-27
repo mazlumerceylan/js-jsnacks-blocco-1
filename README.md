@@ -4,7 +4,15 @@ JSnack5
 3- Quelli dispari inseriscili nell`array
 ===============
 
-JSnack5
+JSnack6
 !- Crea variabile "n" con il prompt 
 2-Crea il ciclo for con i vari calcoli
 3-riproduci a schermo per verificare la validitá.
+===============
+
+
+JSnack7
+!- Crea variabile "potenza"
+2-eseguo un ciclo while che si ripete fino a quando potenza è minore o uguale a 1000
+4- elevo a potenza 2 
+3- Faccio un console.log per verificarne la validitá 
