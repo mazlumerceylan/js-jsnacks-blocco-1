@@ -16,3 +16,9 @@ JSnack7
 2-eseguo un ciclo while che si ripete fino a quando potenza è minore o uguale a 1000
 4- elevo a potenza 2 
 3- Faccio un console.log per verificarne la validitá 
+
+
+JSnack8
+!- Crea variabili numero e somma 
+2- crea ciclo for 
+3- stampa sulla console per farne la verifica 
