@@ -1,4 +1,5 @@
-let n = parseInt(prompt("Inserisci un numero: "));
-for (let i = 0; i <= n; i++) {
-  console.log("Il cubo di ", n, " è ", i ** 3);
+let n = parseInt(prompt("Inserisci un numero:"));
+
+for(let i = 1; i <= n; i++){
+  console.log(i + " = " + i*i*i);
 }
